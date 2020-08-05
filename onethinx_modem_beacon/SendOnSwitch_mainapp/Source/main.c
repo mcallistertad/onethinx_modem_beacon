@@ -36,6 +36,7 @@
  * For a description please see:
  * https://github.com/onethinx/OT_ATCommandSet_VScode/blob/master/README.md
  *
+ * Modified by Tad McAllister on 2020-03-30 to make use of BLE peripheral to broadcast advertising data 
  ********************************************************************************/
 
 #include <limits.h>
