@@ -1,0 +1,6 @@
+11:43:43 **** Build of configuration Debug for project psoc6pdl_Cortex-M4 ****
+/Applications/ModusToolbox_1.1/tools/modus-shell-1.0/bin/make -j3 all 
+make: Nothing to be done for `all'.
+
+11:43:44 Build Finished (took 417ms)
+

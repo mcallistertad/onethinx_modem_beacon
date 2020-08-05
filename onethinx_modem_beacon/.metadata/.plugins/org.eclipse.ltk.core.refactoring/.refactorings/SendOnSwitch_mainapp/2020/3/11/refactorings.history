@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;SendOnSwitch_mainapp/DemoKit&apos; to &apos;DaughterBoard&apos;" description="Rename resource &apos;DemoKit&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="DemoKit" name="DaughterBoard" stamp="1583779954948" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;SendOnSwitch_mainapp/DaughterBoard/DemoKit01.h&apos; to &apos;DaughterBoard.h&apos;" description="Rename resource &apos;DemoKit01.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="DaughterBoard/DemoKit01.h" name="DaughterBoard.h" stamp="1583779971394" updateReferences="true"/>
+</session>

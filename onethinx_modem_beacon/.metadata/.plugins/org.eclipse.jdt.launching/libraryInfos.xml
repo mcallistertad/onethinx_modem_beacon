@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="/Applications/ModusToolbox_1.1/tools/jre-1.0/Contents/Home" version="1.8.0_151">
+<bootpath>
+<entry path="/Applications/ModusToolbox_1.1/tools/jre-1.0/Contents/Home/lib/resources.jar"/>
+<entry path="/Applications/ModusToolbox_1.1/tools/jre-1.0/Contents/Home/lib/rt.jar"/>
+<entry path="/Applications/ModusToolbox_1.1/tools/jre-1.0/Contents/Home/lib/sunrsasign.jar"/>
+<entry path="/Applications/ModusToolbox_1.1/tools/jre-1.0/Contents/Home/lib/jsse.jar"/>
+<entry path="/Applications/ModusToolbox_1.1/tools/jre-1.0/Contents/Home/lib/jce.jar"/>
+<entry path="/Applications/ModusToolbox_1.1/tools/jre-1.0/Contents/Home/lib/charsets.jar"/>
+<entry path="/Applications/ModusToolbox_1.1/tools/jre-1.0/Contents/Home/lib/jfr.jar"/>
+<entry path="/Applications/ModusToolbox_1.1/tools/jre-1.0/Contents/Home/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/Users/tadmcallister/Library/Java/Extensions"/>
+<entry path="/Applications/ModusToolbox_1.1/tools/jre-1.0/Contents/Home/lib/ext"/>
+<entry path="/Library/Java/Extensions"/>
+<entry path="/Network/Library/Java/Extensions"/>
+<entry path="/System/Library/Java/Extensions"/>
+<entry path="/usr/lib/java"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/Applications/ModusToolbox_1.1/tools/jre-1.0/Contents/Home/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home" version="1.8.0_181">
+<bootpath>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/resources.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/sunrsasign.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/jsse.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/jce.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/charsets.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/jfr.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/Users/tadmcallister/Library/Java/Extensions"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext"/>
+<entry path="/Library/Java/Extensions"/>
+<entry path="/Network/Library/Java/Extensions"/>
+<entry path="/System/Library/Java/Extensions"/>
+<entry path="/usr/lib/java"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/Library/Java/JavaVirtualMachines/openjdk-11.jdk/Contents/Home" version="11"/>
+</libraryInfos>

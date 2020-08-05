@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;SendOnSwitch_mainapp/Source/atinterfacenew.c&apos;" deleteContents="false" description="Delete resource &apos;SendOnSwitch_mainapp/Source/atinterfacenew.c&apos;" element1="/SendOnSwitch_mainapp/Source/atinterfacenew.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1568732280654"/>
+</session>
